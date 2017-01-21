@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 838410ac69eb944d3bf2733d4d264912
+timeCreated: 1481195288
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ID16
+    100004: ID24
+    100006: ID32
+    100008: ID40
+    100010: ID48
+    100012: ID56
+    100014: ID64
+    100016: ID72
+    100018: skp_camera_Last_Saved_SketchUp_View
+    100020: ID120
+    100022: ID148
+    100024: ID181
+    100026: ID209
+    100028: ID237
+    100030: ID36
+    100032: ID92
+    100034: ID118
+    100036: ID146
+    100038: ID164
+    100040: ID187
+    100042: ID59
+    100044: ID77
+    100046: ID95
+    400000: //RootNode
+    400002: ID16
+    400004: ID24
+    400006: ID32
+    400008: ID40
+    400010: ID48
+    400012: ID56
+    400014: ID64
+    400016: ID72
+    400018: skp_camera_Last_Saved_SketchUp_View
+    400020: ID120
+    400022: ID148
+    400024: ID181
+    400026: ID209
+    400028: ID237
+    400030: ID36
+    400032: ID92
+    400034: ID118
+    400036: ID146
+    400038: ID164
+    400040: ID187
+    400042: ID59
+    400044: ID77
+    400046: ID95
+    2300000: //RootNode
+    2300002: ID16
+    2300004: ID24
+    2300006: ID32
+    2300008: ID40
+    2300010: ID48
+    2300012: ID56
+    2300014: ID64
+    2300016: ID72
+    2300018: ID120
+    2300020: ID148
+    2300022: ID181
+    2300024: ID209
+    2300026: ID237
+    2300028: ID36
+    2300030: ID92
+    2300032: ID118
+    2300034: ID146
+    2300036: ID164
+    2300038: ID187
+    2300040: ID59
+    2300042: ID77
+    2300044: ID95
+    3300000: //RootNode
+    3300002: ID16
+    3300004: ID24
+    3300006: ID32
+    3300008: ID40
+    3300010: ID48
+    3300012: ID56
+    3300014: ID64
+    3300016: ID72
+    3300018: ID120
+    3300020: ID148
+    3300022: ID181
+    3300024: ID209
+    3300026: ID237
+    3300028: ID36
+    3300030: ID92
+    3300032: ID118
+    3300034: ID146
+    3300036: ID164
+    3300038: ID187
+    3300040: ID59
+    3300042: ID77
+    3300044: ID95
+    4300000: SketchUp
+    4300002: ID16
+    4300004: ID24
+    4300006: ID32
+    4300008: ID40
+    4300010: ID48
+    4300012: ID56
+    4300014: ID64
+    4300016: ID72
+    4300018: ID36
+    4300020: ID92
+    4300022: ID120
+    4300024: ID148
+    4300026: ID181
+    4300028: ID209
+    4300030: ID237
+    4300032: ID59
+    4300034: ID77
+    4300036: ID95
+    4300038: ID118
+    4300040: ID146
+    4300042: ID164
+    4300044: ID187
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
